@@ -1,6 +1,6 @@
 {
   "name": "@rubin-baidhya/js-utility",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "type": "module",
   "description": "Some Javascript utility functions similar to Lodash",
   "main": "index.js",
