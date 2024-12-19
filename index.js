@@ -1,4 +1,4 @@
-class _ {
+class JSUtils {
   static chunk(array, size = 1) {
     let newArray = [];
     for (let i = 0; i < array.length; i += size) {
@@ -161,4 +161,4 @@ class _ {
   }
 }
 
-export default _;
+export default JSUtils;
