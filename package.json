@@ -1,0 +1,15 @@
+{
+  "name": "@rubinbaidhya/js-utility",
+  "version": "1.0.0",
+  "description": "Some Javascript utility functions similar to Lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roobeen-b/js-utility"
+},
+  "author": "Rubin Baidhya",
+  "license": "ISC"
+}
